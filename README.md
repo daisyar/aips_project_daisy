@@ -1,7 +1,7 @@
 # Automatic traffic counter log analysis
 
 This project is containing the function to generate traffic logs randomly with specified start date, end date. Record will be stored
-into a txt file under the folder logs. No third party libraries required.
+into a txt file under the folder logs, calculate total car count, daily car count, search top 3 half hour record, and the least 3 contiguous half hour record window. No third party libraries required.
 
 ## How to run
 ```
